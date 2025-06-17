@@ -6,9 +6,10 @@ Welcome to the Capra3D Email Templates repository! This repository contains HTML
 
 - [Overview](#overview)
 - [Templates](#templates)
-  - [1. Email Template for the Boss](https://github.com/louis14141/capra3D-mails/blob/main/to-boss.html)
-  - [2. Email Template for Another Staff Member](https://github.com/louis14141/capra3D-mails/blob/main/to-staff.html)
-  - [3. Email Template for Customers](https://github.com/louis14141/capra3D-mails/blob/main/to-costumer.html)
+  
+  - <kbd> <br> [to boss](https://github.com/louis14141/capra3D-mails/blob/main/to-boss.html) <br> </kbd>
+  - <kbd> <br> [to staf](https://github.com/louis14141/capra3D-mails/blob/main/to-staff.html) <br> </kbd>
+  - <kbd> <br> [to costumer](https://github.com/louis14141/capra3D-mails/blob/main/to-costumer.html) <br> </kbd>
 - [Usage Instructions](#usage-instructions)
 - [Contributing](#contributing)
 - [License](#license)
