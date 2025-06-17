@@ -46,6 +46,6 @@ If you have suggestions for improvements or additional templates, feel free to s
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Thank you for using the Capra3D Email Templates! For any questions or support, please reach out to your supervisor.
-```
+[![louis14141 - capra3d-mails](https://img.shields.io/static/v1?label=louis14141&message=capra3d-mails&color=blue&logo=github)](https://github.com/louis14141/capra3d-mails "Go to GitHub repo")
+[![stars - capra3d-mails](https://img.shields.io/github/stars/louis14141/capra3d-mails?style=social)](https://github.com/louis14141/capra3d-mails)
+[![forks - capra3d-mails](https://img.shields.io/github/forks/louis14141/capra3d-mails?style=social)](https://github.com/louis14141/capra3d-mails)
